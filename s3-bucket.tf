@@ -3,5 +3,5 @@ module "s3-bucket" {
   version = "2.6.0"  
 
   # insert required variables here
-  bucket_prefix = "NewGoot"
+  bucket_prefix = "newgoot"
 }
